@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Lecture presentation.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/17-918-new-global-agenda-exploring-21st-century-challenges-through-innovations-in-information-technologies-january-iap-2006/39c4f735996548480c3d8152a9372917_Class2.pdf
+file: /media/courses/17-918-new-global-agenda-exploring-21st-century-challenges-through-innovations-in-information-technologies-january-iap-2006/39c4f735996548480c3d8152a9372917_Class2.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: Class2.pdf
 uid: 39c4f735-9965-4848-0c3d-8152a9372917
