@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: ee6d59b6-4a77-9dc8-2102-137a0e2aaaee
 resourcetype: Document
 title: Network_Project_Presentation3_28_06.pdf
 uid: c68cb733-48d2-b53c-3585-3e73ae8ec221

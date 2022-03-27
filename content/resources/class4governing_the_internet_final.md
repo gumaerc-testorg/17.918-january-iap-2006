@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: ee6d59b6-4a77-9dc8-2102-137a0e2aaaee
 resourcetype: Document
 title: Class4Governing_the_Internet_final.pdf
 uid: 6a3d5790-ceb6-69fb-5a9e-04846d2b8dde

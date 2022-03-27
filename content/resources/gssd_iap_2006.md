@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: ee6d59b6-4a77-9dc8-2102-137a0e2aaaee
 resourcetype: Document
 title: GSSD_IAP_2006.pdf
 uid: 3b9d91ad-90f4-7d32-a0ae-3e688079dd35

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: ee6d59b6-4a77-9dc8-2102-137a0e2aaaee
 resourcetype: Document
 title: Class3_Game_Presentation.pdf
 uid: 31471c8c-6a8c-b36c-99ae-8d82e0fa7d7a
