@@ -5,6 +5,7 @@ file: /courses/17-918-new-global-agenda-exploring-21st-century-challenges-throug
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Class4Governing_the_Internet_final.pdf
 uid: 6a3d5790-ceb6-69fb-5a9e-04846d2b8dde
 ---
 Lecture presentation.
-

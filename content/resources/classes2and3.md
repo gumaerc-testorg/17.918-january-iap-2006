@@ -5,6 +5,7 @@ file: /courses/17-918-new-global-agenda-exploring-21st-century-challenges-throug
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Classes2and3.pdf
 uid: 5c13b729-28d3-33f8-af05-02d593df7b14
 ---
 Class agenda.
-

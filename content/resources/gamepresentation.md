@@ -5,6 +5,7 @@ file: /courses/17-918-new-global-agenda-exploring-21st-century-challenges-throug
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: GamePresentation.pdf
 uid: aa390a17-91f3-11e8-6521-28737fa7c5f4
 ---
 Lecture presentation.
-
