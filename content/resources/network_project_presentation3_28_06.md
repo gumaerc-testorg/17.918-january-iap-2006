@@ -2,6 +2,7 @@
 content_type: resource
 description: Lecture presentation.
 file: /courses/17-918-new-global-agenda-exploring-21st-century-challenges-through-innovations-in-information-technologies-january-iap-2006/c68cb73348d2b53c35853e73ae8ec221_Network_Project_Presentation3_28_06.pdf
+file_size: 210415
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
