@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/17-918-new-global-agenda-exploring-21st-century-challenges-through-innovations-in-information-technologies-january-iap-2006/3b9d91ad90f47d32a0ae3e688079dd35_GSSD_IAP_2006.pdf
+file: /ol-ocw-studio-app/courses/17-918-new-global-agenda-exploring-21st-century-challenges-through-innovations-in-information-technologies-january-iap-2006/3b9d91ad90f47d32a0ae3e688079dd35_GSSD_IAP_2006.pdf
 file_size: 1397713
 file_type: application/pdf
 learning_resource_types:

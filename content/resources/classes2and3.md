@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Class agenda.
-file: /courses/17-918-new-global-agenda-exploring-21st-century-challenges-through-innovations-in-information-technologies-january-iap-2006/5c13b72928d333f8af0502d593df7b14_Classes2and3.pdf
+file: /ol-ocw-studio-app/courses/17-918-new-global-agenda-exploring-21st-century-challenges-through-innovations-in-information-technologies-january-iap-2006/5c13b72928d333f8af0502d593df7b14_Classes2and3.pdf
 file_size: 44149
 file_type: application/pdf
 learning_resource_types:
