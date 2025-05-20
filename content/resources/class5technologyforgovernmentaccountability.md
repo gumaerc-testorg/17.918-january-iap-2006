@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture presentation.
-file: /ol-ocw-studio-app/courses/17-918-new-global-agenda-exploring-21st-century-challenges-through-innovations-in-information-technologies-january-iap-2006/6acedca08ed4555196a2e649dc230389_Class5TechnologyforGovernmentAccountability.pdf
+file: /courses/17-918-new-global-agenda-exploring-21st-century-challenges-through-innovations-in-information-technologies-january-iap-2006/6acedca08ed4555196a2e649dc230389_Class5TechnologyforGovernmentAccountability.pdf
 file_size: 176847
 file_type: application/pdf
 learning_resource_types:

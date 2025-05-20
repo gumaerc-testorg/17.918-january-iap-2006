@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture presentation.
-file: /ol-ocw-studio-app/courses/17-918-new-global-agenda-exploring-21st-century-challenges-through-innovations-in-information-technologies-january-iap-2006/39c4f735996548480c3d8152a9372917_Class2.pdf
+file: /courses/17-918-new-global-agenda-exploring-21st-century-challenges-through-innovations-in-information-technologies-january-iap-2006/39c4f735996548480c3d8152a9372917_Class2.pdf
 file_size: 53239
 file_type: application/pdf
 learning_resource_types:
