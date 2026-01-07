@@ -51,9 +51,9 @@ Focus: We will discuss the development of a computer simulation designed to teac
 
 {{< tdclose >}}{{< tdopen >}}
 
-{{% resource_link "93e3b930-5101-4af8-8928-08480776ffbc" "Global Agenda!" %}}  
+[Global Agenda!](http://web.mit.edu/global/)  
 
-Hughes, Barry. {{% resource_link "90504826-c45a-4f39-a7e9-a8299b562150" "International Futures" %}} Web site and demonstrations.
+Hughes, Barry. [International Futures](http://www.du.edu/~bhughes/ifs.html) Web site and demonstrations.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **Week 2: Technology in Government, and Vice Versa**
@@ -67,13 +67,13 @@ Focus: In the previous class we discuss how technology affects governments; in t
 
 {{< tdclose >}}{{< tdopen >}}
 
-Palfrey, John G., Jr. "The End of the Experiment: How ICANN's Foray into Global Internet Democracy Failed." *The Berkman Center for Internet and Society at Harvard Law School*, no. 02 (January 2004). ({{% resource_link "5d0fccd8-1c66-4dd0-8bce-4b05acfc42b6" "PDF - 1.1 MB" %}})
+Palfrey, John G., Jr. "The End of the Experiment: How ICANN's Foray into Global Internet Democracy Failed." *The Berkman Center for Internet and Society at Harvard Law School*, no. 02 (January 2004). ([PDF - 1.1 MB](https://dash.harvard.edu/bitstream/handle/1/2643642/End+of+the+Experiment.pdf?sequence=2))
 
 Siochru, Sean O., Bruce Girard, and Amy Mahan. *Global Media Governance*. New York, NY: Rowman and Littlefield, 2002, chapters 10-11. ISBN: 9780742515666.
 
-Talbot, David. "{{% resource_link "c783af21-5507-4bc4-aafc-ba28fae0d0af" "The Internet Is Broken" %}}." *Technology Review* (December 2005/January 2006): 62-69.
+Talbot, David. "[The Internet Is Broken](https://www.technologyreview.com/2006/02/15/229667/the-internet-is-broken/)." *Technology Review* (December 2005/January 2006): 62-69.
 
-{{% resource_link "879a4c8d-0e24-4c9d-bf10-119fef02953b" "World Summit on the Information Society" %}}.
+[World Summit on the Information Society](http://www.itu.int/wsis/).
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 5
@@ -99,7 +99,7 @@ Focus: We have discussed how interconnected the world is becoming. System dynami
 
 {{< tdclose >}}{{< tdopen >}}
 
-Choucri, Nazli, Christi Electris, Daniel Goldsmith, Dinsha Mistree, Stuart E. Madnick, J. Bradley Morrison, Michael Siegel, and Margaret Sweitzer-Hamilton. "{{% resource_link "1f32ef95-c698-47fc-8de6-4ae44ac49ae0" "Understanding and Modeling State Stability: Exploiting System Dynamics" %}}." MIT Sloan Research Paper No. 4574-06TBD. (January 2006)
+Choucri, Nazli, Christi Electris, Daniel Goldsmith, Dinsha Mistree, Stuart E. Madnick, J. Bradley Morrison, Michael Siegel, and Margaret Sweitzer-Hamilton. "[Understanding and Modeling State Stability: Exploiting System Dynamics](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=876962)." MIT Sloan Research Paper No. 4574-06TBD. (January 2006)
 
 Meadows, Donella, Jorgen Randers, and Dennis Meadows. *Limits to Growth*. White River Junction, VT: Chelsea Green Publishing, 2004, preface. ISBN: 9781931498586.
 
@@ -116,7 +116,7 @@ Meadows, Donella. *The Global Citizen*. Washington, DC: Island Press, 1991, pp. 
 Focus: Presentation and available opportunities through the Global System for Sustainable Development.
 
 {{< tdclose >}}{{< tdopen >}}
-The {{% resource_link "6e69d845-e2ed-42b0-8a1e-028f18c7e000" "GSSD Site" %}} will be the basis of the discussion. Please browse through it and get a sense of what it's for, and how it can be used.
+The [GSSD Site](http://gssd.mit.edu/) will be the basis of the discussion. Please browse through it and get a sense of what it's for, and how it can be used.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 8
 {{< tdclose >}}{{< tdopen >}}
